@@ -100,17 +100,17 @@ a {
 
 .kep1:hover {
     transform: scale(1.03);
-    transition: transform 0.3s ease-in-out;
+    transition: transform 1s ease-in-out;
 }
 
 .kep2:hover {
     transform: scale(1.03);
-    transition: transform 0.3s ease-in-out;
+    transition: transform 1s ease-in-out;
 }
 
 .logo:hover {
     transform: scale(1.03);
-    transition: transform 0.3s ease-in-out;
+    transition: transform 1s ease-in-out;
 }
 
 .vastag:hover {
