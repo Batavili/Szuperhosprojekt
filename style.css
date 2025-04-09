@@ -93,7 +93,7 @@ a {
 }
 .doboz-szoveg {
     border: 2px solid black;
-    text-align: center;
+    text-align: justify;
     align-items: center;
     justify-content: center;
     border-radius: 15px;
